@@ -50,14 +50,14 @@ When preparing a report for stakeholders, it is important to have up-to-date inf
 * The generated README includes the user's email.
 
 * The generated README includes the following sections: 
-  * Title
-  * Description
+  * Title*
+  * Description*
   * Table of Contents
-  * Installation
-  * Usage
-  * License
-  * Contributing
-  * Tests
+  * Installation*
+  * Usage*
+  * License*
+  * Contributing*
+  * Tests*
   * Questions
 
 * The generated README includes 1 badge that's specific to the repository.
